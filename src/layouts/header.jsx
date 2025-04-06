@@ -4,7 +4,7 @@ export const Header = () => {
     return (
         <header className="fixed top-0 left-0 w-full h-[60px] bg-black shadow-md flex items-center px-2 sm:px-4 border border-gray-800 z-30">
             {/* Logo on top of Utility Bar */}
-            <img src="/public/vertxlogo.jpg" alt="Logo" className="h-[40px] w-[40px] sm:h-[50px] sm:w-[50px] mr-2 sm:mr-4 rounded-full border border-gray-800" />
+            <img src="https://pbs.twimg.com/profile_images/1897219715841581056/qLSvNS6v_400x400.jpg" alt="Logo" className="h-[40px] w-[40px] sm:h-[50px] sm:w-[50px] mr-2 sm:mr-4 rounded-full border border-gray-800" />
 
             {/* Company Name - Hidden on smallest screens */}
             <div className="hidden sm:flex h-[50px] w-[150px] sm:w-[190px] items-center text-white text-lg font-semibold border border-gray-800">

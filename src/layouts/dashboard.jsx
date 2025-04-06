@@ -103,7 +103,7 @@ const Demographics = () => (
     </div>
 
     <div className="flex flex-col lg:flex-row gap-6">
-      <img src="/public/World_map_with_points.svg" alt="World Map" className="w-full lg:w-2/3 h-64 object-cover rounded" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/World_map_with_points.svg" alt="World Map" className="w-full lg:w-2/3 h-64 object-cover rounded" />
 
       <div className="w-full lg:w-1/3">
         {[
